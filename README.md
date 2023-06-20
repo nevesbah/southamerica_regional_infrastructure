@@ -3,7 +3,7 @@ Database resulting from the PhD Project "South American regional infrastructure:
 
 # Research Abstract
 <p align="justify">
-This research project aimed to analyze how the south-American regionalism reacts to crisis scenarios having as its study case the regional infrastructure initiatives in South America. Since 2013 the relations between the south-American countries are pervaded by conflicts and dissatisfaction, achieving its apex with the dismantling of UNASUR in 2019. Yet, in the opposite way of the crisis deepening, the regional infrastructure initiatives had a constancy of efforts during the same period, demonstrating a high level of interests for its continuity and in executing its projects as well as in attracting investments to the continent. However, even with the institutional development of the infrastructure integration there hasn’t been a search for alternatives to diminish regional mechanisms vulnerability when facing regional crises. In addition, the national logic has been prioritized in the detriment of investing in the regional dynamic. In the other hand, it is argued that this strategy has resulted in a bigger vulnerability in the instituted arrangement, mainly during political and economic national crisis, when there is higher level of retraction of the existent regional spaces. Hence, the built scenario pave the way for a growing participation of extraregional interests like those from the United States and China, which do not necessarily aim for surpassing the socioeconomic problems that are present in each south-American country.
+This research project aimed to analyze how the south-American regionalism reacts to crisis scenarios having as its study case the regional infrastructure initiatives in South America. Since 2013 the relations between the south-American countries are pervaded by conflicts and dissatisfaction, achieving its apex with the dismantling of the Union of South-American Nations (UNASUR) in 2019. Yet, in the opposite way of the crisis deepening, the regional infrastructure initiatives had a constancy of efforts during the same period, demonstrating a high level of interests for its continuity and in executing its projects as well as in attracting investments to the continent. However, even with the institutional development of the infrastructure integration there hasn’t been a search for alternatives to diminish regional mechanisms vulnerability when facing regional crises. In addition, the national logic has been prioritized in the detriment of investing in the regional dynamic. In the other hand, it is argued that this strategy has resulted in a bigger vulnerability in the instituted arrangement, mainly during political and economic national crisis, when there is higher level of retraction of the existent regional spaces. Hence, the built scenario pave the way for a growing participation of extraregional interests like those from the United States and China, which do not necessarily aim for surpassing the socioeconomic problems that are present in each south-American country.
 </p>
 
 # Research Question and Goals
@@ -15,20 +15,40 @@ Having crises as a structural component of South American countries, what elemen
   
 ## Main challenges
 <p align="justify">
-The methodology of document analysis, as well as the production of empirical material, such as interviews, are seen as necessary due to the large amount of existing data on South American regional infrastructure, which, however, are mostly incomplete or disorganized. Data transparency here was an important exogenous variable to be faced. The non-existence of organized or complete data on the advances in infrastructure integration in South America has also increased in recent years, given the cases of corruption between governments and construction companies in countries such as Brazil, Argentina, Ecuador, Bolivia , Peru and Venezuela. In this way, the analysis of the case of infrastructure allows us to understand South American regionalism, as well as the dynamics of national, regional and extra-regional incentives for investment in infrastructure in the continent, which is essential for the development of the countries in the region and for the reduction of existing regional asymmetries.
-Through the use of techniques, methodologies, and technologies to identify the opportunities and challenges of this period, it was possible to trace the regional projects that continued, and those that were paralyzed, listing which elements explain the resilience or greater vulnerability of regional processes in America southern.
-The organization of the collected data was carried out based on the existing research infrastructure at the International Relations Laboratory (DERI/FCHS/UNESP). Through the interaction between research in human sciences and information technology, which is in constant evolution, it was possible to use different technological mechanisms that accelerated and optimized the analysis time of the empirical data collected and produced.
-The technologies already used by the research group Laboratory of New Technologies for Research in International Relations (LANTRI) allowed both access to databases in the field of international relations and, specifically, of Brazil's foreign policy, such as the library of foreign policy of the Brazil, database of speeches, websites partially or completely downloaded, database of Brazilian and international international relations magazines, and others. Furthermore, as a new analytical tool and for the production of dynamic graphs, Tableau Desktop was used, as well as the programming languages R and Javascript.
-It is important to highlight here that, when facing the issue of transparency and disorganization of data on investments and infrastructure development in South America, which are often dispersed or incomplete, this work has as one of its main contributions, the organization and availability of this information from publicly and freely accessible through this open repository on GitHub.
+<a>Data transparency here was an important exogenous variable to be faced. The non-existence of organized or complete data on the advances in infrastructure integration in South America has also increased in recent years, given the cases of corruption between governments and construction companies in countries such as Brazil, Argentina, Ecuador, Bolivia , Peru and Venezuela. In this way, the analysis of the case of infrastructure allows us to understand South American regionalism, as well as the dynamics of national, regional and extra-regional incentives for investment in infrastructure in the continent, which is essential for the development of the countries in the region and for the reduction of existing regional asymmetries. </a>
+
+<a> It is important to highlight here that, when facing the issue of transparency and disorganization of data on investments and infrastructure development in South America, which are often dispersed or incomplete, this work has as one of its main contributions, the organization and availability of this information from publicly and freely accessible through this open repository on GitHub.</a>
 </p>
 
 
 ## Methodological approach
 <p align="justify">
+<a>The methodology of document analysis, as well as the production of empirical material, such as interviews, were necessary due to the large amount of existing data on South American regional infrastructure, which, however, are mostly incomplete or disorganized. </a>
+<a> Through the use of techniques, methodologies, and technologies to identify the opportunities and challenges of this period, it was possible to trace the regional projects that continued, and those that were paralyzed, listing which elements explain the resilience or greater vulnerability of regional processes in America southern.</a>
+<a>The organization of the collected data was carried out based on the existing research infrastructure at the International Relations Laboratory (DERI/FCHS/UNESP). Through the interaction between research in human sciences and information technology, which is in constant evolution, it was possible to use different technological mechanisms that accelerated and optimized the analysis time of the empirical data collected and produced.</a>
+<a>The technologies already used by the research group Laboratory of New Technologies for Research in International Relations (LANTRI) allowed both access to databases in the field of international relations and, specifically, of Brazil's foreign policy, such as the library of foreign policy of the Brazil, database of speeches, websites partially or completely downloaded, database of Brazilian and international international relations magazines, and others. Furthermore, as a new analytical tool and for the production of dynamic graphs, Tableau Desktop was used, as well as the programming languages R and Javascript.</a>
+</p>
+
+## Databases Sources
+<p align="justify">
+To analyse the resilience of the South-American Infrastructure Initiatives, there were main sources that were used:
+1) <a> The Website of the Initative for South-American Regional Infraestructure Integration (IIRSA) </a>
+<p> The IIRSA website has not been updated since the paralisis of Unasur in 2018. However, the website with all the data about the projects were kept available by the Interamerican Development Bank's (IDB) Institute for the Integration of Latin America and the Caribbean (INTAL) </p> 
+2) <a> The Website of the Alliance for the Integration and Development of Latin America and the Caribbean (ILAT) </a>
+<p> The ILAT was created by the IIRSA's Technical Coordinator Committee: IDB, the Latin American Development Bank (CAF), and the Fundo Financeiro para Desenvolvimento da Bacia do Prata (FONPLATA), in 2021, on the intent to provide technical and financial support for Latin-American countries within the dismantling of Unasur and, hence, IIRSA </p>
+3) <a> Governamental Websites </a>
+<p> Many of the projects from the IIRSA Portfolio have incomplete or outdated information. Thus, one of the research sources used to create a new and updated database were the South-American Ministries' websites (Infrastructure, Public Affairs, and others). In these sources it was possible to find some notes or data on the projects that were continued through national and subnational efforts </p>
+4) <a> IDB, CAF, FONPLATA, China-Latin America Finance Database (Boston University) </a>
+<p> Many of the IIRSA projects were continued since 2018 through the bilateral financial support from regional and extrarregional actors, such the IADB, CAF, FONPLATA and the Chinese government.</p>
+</p>
+5) <a> South-American online newspapers</a>
+<p> As noted before, the lack of transparency makes is difficult to find the complete information about the current status of an infrastructure project within the continent. Because of such challenges, it was also necessary to search online for news or reports about the conclusion or the advancement of some of the IIRSA projects through different newspapers from each South-American Countries </p>
+</p>
+
+## Databases Description
+<p align="justify">
+
 
 </p>
 
-## Databases
 
-- <a> Programming Languages: C, C++, Java, PhP, JavaScript, Html. </a>
-- <a> Softwares: Excell, Tableau, Recoll, ... </a>
