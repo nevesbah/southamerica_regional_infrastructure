@@ -76,7 +76,7 @@ Having crises as a structural component of South American countries, what elemen
   </tr>
 </table>
 
-<p><b> 2 - ILAT Projects </b></p>
+<p><b> <a href="https://github.com/nevesbah/southamerica_regional_infrastructure/blob/main/GitHub-ILAT-Proyectos.xlsx"> 2 - ILAT Projects </a></b></p>
 <p>- This database organizes all of the current infrastructure projects being developed through the ILAT initative </p>
 <p> <b> DATABASE STRUCTURE </b></p>
 <table align="center">
