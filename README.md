@@ -71,6 +71,7 @@ Having crises as a structural component of South American countries, what elemen
     <td> Peru </td>
     <td> IDB - National Treasure - Private (in spanish: BID – TESOURO – PRIVADO)</td>
     <td> Concluded/Ongoing/Paralyzed/No information (in portuguese: Concluído/Em andamento/Parada/Sem informação)</td>
+    <td> Link of website </td>
     <td> http://iirsa.org/proyectos/ </td>
   </tr>
 </table>
