@@ -49,10 +49,22 @@ Having crises as a structural component of South American countries, what elemen
 
 ## Databases Description
 <p align="justify">
-<p> 1 - IIRSA Continued Projects </p>
+<p><b> 1 - IIRSA Continued Projects </b></p>
 <p></p> - This database details the current status (untill January/2023) of the IIRSA Projects that had as its status "ongoing" (em andamento, in portuguese) and had been continued even after the paralisis of UNASUR in 2028 </p>
 <p> <b> DATABASE STRUCTURE </b></p>
+<table>
+  <tr>
+    <th>Project Name ('nombre del proyecto')</th>
+    <th>Project Status ('etapa del proyecto')</th>
+    <th>Total of Investments in US$ ('monto de inversión')</th>
+    <th>Country/Countries ('país/países')</th>
+    <th>Financial Sources ('financiadores')</th>
+  </tr> 
 
+NOMBRE DEL PROYECTO	ETAPA DEL PROYECTO	MONTO DE INVERSIÓN (en US$)	PAÍS / PAÍSES	FINANCIADORES
+
+
+</table>
   
 </p>
 
