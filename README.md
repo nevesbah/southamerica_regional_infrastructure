@@ -75,8 +75,28 @@ Having crises as a structural component of South American countries, what elemen
     <td> http://iirsa.org/proyectos/ </td>
   </tr>
 </table>
-  
-</p>
+
+<p><b> 2 - ILAT Projects </b></p>
+<p>- This database organizes all of the current infrastructure projects being developed through the ILAT initative </p>
+<p> <b> DATABASE STRUCTURE </b></p>
+<table align="center">
+  <tr>
+    <th>Project Name ('Nome')</th>
+    <th>Country ('país')</th>
+    <th>Status</th>
+    <th>Total Investments ('Investimento Total')</th>
+    <th>Financial Sources ('Fonte de Investimento')</th>
+    <th>Link</th>
+  </tr> 
+<tr align="center">
+    <td>Ex. Programa de Desarrollo Vial Fase II: RN40</td>
+    <td> Argentina </td>
+    <td>Concluded/Ongoing/Profile/Studies (in spanish: Concluído/Ejecución/Perfil/Pré-ejecución)</td>
+    <td>$168.000.000,00</td>
+    <td> CAF </td>
+    <td>https://alianzailat.org/project/programa-de-desarrollo-vial-fase-ii-rn40/technical </td>
+  </tr>
+</table>
 
 </p>
 
