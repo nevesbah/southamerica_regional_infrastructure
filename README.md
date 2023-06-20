@@ -91,7 +91,7 @@ Having crises as a structural component of South American countries, what elemen
 <tr align="center">
     <td>Ex. Programa de Desarrollo Vial Fase II: RN40</td>
     <td> Argentina </td>
-    <td>Concluded/Ongoing/Profile/Studies (in spanish: Concluído/Ejecución/Perfil/Pré-ejecución)</td>
+    <td>Concluded/Ongoing/Profile/Studies (in portuguese: Concluído/Execução/Perfil/Pré-execução)</td>
     <td>$168.000.000,00</td>
     <td> CAF </td>
     <td>https://alianzailat.org/project/programa-de-desarrollo-vial-fase-ii-rn40/technical </td>
