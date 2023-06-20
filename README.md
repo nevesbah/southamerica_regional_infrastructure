@@ -52,7 +52,7 @@ Having crises as a structural component of South American countries, what elemen
 <p><b> 1 - IIRSA Continued Projects </b></p>
 <p></p> - This database details the current status (untill January/2023) of the IIRSA Projects that had as its status "ongoing" (em andamento, in portuguese) and had been continued even after the paralisis of UNASUR in 2028 </p>
 <p> <b> DATABASE STRUCTURE </b></p>
-<table>
+<table align="center">
   <tr>
     <th>Project Name ('nombre del proyecto')</th>
     <th>Project Status ('etapa del proyecto')</th>
@@ -65,7 +65,7 @@ Having crises as a structural component of South American countries, what elemen
     <td>Concluded/Ongoing/Profile/Studies (in spanish: Concluído/Ejecución/Perfil/Pré-ejecución)</td>
     <td>$231.712.828,00</td>
     <td> Peru </td>
-    <td> IADB - National Treasure - Private (in spanish: BID – TESOURO – PRIVADO)</td>
+    <td> IDB - National Treasure - Private (in spanish: BID – TESOURO – PRIVADO)</td>
   </tr>
 </table>
   
