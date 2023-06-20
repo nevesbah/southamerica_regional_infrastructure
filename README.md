@@ -60,10 +60,13 @@ Having crises as a structural component of South American countries, what elemen
     <th>Country/Countries ('país/países')</th>
     <th>Financial Sources ('financiadores')</th>
   </tr> 
-
-NOMBRE DEL PROYECTO	ETAPA DEL PROYECTO	MONTO DE INVERSIÓN (en US$)	PAÍS / PAÍSES	FINANCIADORES
-
-
+<tr>
+    <td>Ex. CARRETERA TARAPOTO - YURIMAGUAS</td>
+    <td>Concluded/Ongoing/Profile/Studies (in spanish: Concluído/Ejecución/Perfil/Pré-ejecución)</td>
+    <td>$231.712.828,00</td>
+    <td> Peru </td>
+    <td> IADB - National Treasure - Private (in spanish: BID – TESOURO – PRIVADO)</td>
+  </tr>
 </table>
   
 </p>
