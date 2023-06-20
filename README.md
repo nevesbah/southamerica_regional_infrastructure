@@ -1,5 +1,7 @@
 # South-American Regional Infrastructure Database
+<p align="justify">
 Database resulting from the PhD Project "South American regional infrastructure: an analysis facing the regional crisis and the chinese investiments advance"
+</p>
 
 # Research Abstract
 <p align="justify">
@@ -31,18 +33,18 @@ Having crises as a structural component of South American countries, what elemen
 
 ## Databases Sources
 <p align="justify">
-To analyse the resilience of the South-American Infrastructure Initiatives, there were main sources that were used:
+<a>To analyse the resilience of the South-American Infrastructure Initiatives, there were main sources that were used:</a>
 1) <a> The Website of the Initative for South-American Regional Infraestructure Integration (IIRSA) </a>
-<p> The IIRSA website has not been updated since the paralisis of Unasur in 2018. However, the website with all the data about the projects were kept available by the Interamerican Development Bank's (IDB) Institute for the Integration of Latin America and the Caribbean (INTAL) </p> 
+<p> - The IIRSA website has not been updated since the paralisis of Unasur in 2018. However, the website with all the data about the projects were kept available by the Interamerican Development Bank's (IDB) Institute for the Integration of Latin America and the Caribbean (INTAL) </p> 
 2) <a> The Website of the Alliance for the Integration and Development of Latin America and the Caribbean (ILAT) </a>
-<p> The ILAT was created by the IIRSA's Technical Coordinator Committee: IDB, the Latin American Development Bank (CAF), and the Fundo Financeiro para Desenvolvimento da Bacia do Prata (FONPLATA), in 2021, on the intent to provide technical and financial support for Latin-American countries within the dismantling of Unasur and, hence, IIRSA </p>
+<p> - The ILAT was created by the IIRSA's Technical Coordinator Committee: IDB, the Latin American Development Bank (CAF), and the Fundo Financeiro para Desenvolvimento da Bacia do Prata (FONPLATA), in 2021, on the intent to provide technical and financial support for Latin-American countries within the dismantling of Unasur and, hence, IIRSA </p>
 3) <a> Governamental Websites </a>
-<p> Many of the projects from the IIRSA Portfolio have incomplete or outdated information. Thus, one of the research sources used to create a new and updated database were the South-American Ministries' websites (Infrastructure, Public Affairs, and others). In these sources it was possible to find some notes or data on the projects that were continued through national and subnational efforts </p>
+<p> - Many of the projects from the IIRSA Portfolio have incomplete or outdated information. Thus, one of the research sources used to create a new and updated database were the South-American Ministries' websites (Infrastructure, Public Affairs, and others). In these sources it was possible to find some notes or data on the projects that were continued through national and subnational efforts </p>
 4) <a> IDB, CAF, FONPLATA, China-Latin America Finance Database (Boston University) </a>
-<p> Many of the IIRSA projects were continued since 2018 through the bilateral financial support from regional and extrarregional actors, such the IADB, CAF, FONPLATA and the Chinese government.</p>
+<p> - Many of the IIRSA projects were continued since 2018 through the bilateral financial support from regional and extrarregional actors, such the IADB, CAF, FONPLATA and the Chinese government.</p>
 </p>
 5) <a> South-American online newspapers</a>
-<p> As noted before, the lack of transparency makes is difficult to find the complete information about the current status of an infrastructure project within the continent. Because of such challenges, it was also necessary to search online for news or reports about the conclusion or the advancement of some of the IIRSA projects through different newspapers from each South-American Countries </p>
+<p> - As noted before, the lack of transparency makes is difficult to find the complete information about the current status of an infrastructure project within the continent. Because of such challenges, it was also necessary to search online for news or reports about the conclusion or the advancement of some of the IIRSA projects through different newspapers from each South-American Countries </p>
 </p>
 
 ## Databases Description
