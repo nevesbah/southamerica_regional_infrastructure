@@ -60,7 +60,7 @@ Having crises as a structural component of South American countries, what elemen
     <th>Country/Countries ('país/países')</th>
     <th>Financial Sources ('financiadores')</th>
   </tr> 
-<tr>
+<tr align="center">
     <td>Ex. CARRETERA TARAPOTO - YURIMAGUAS</td>
     <td>Concluded/Ongoing/Profile/Studies (in spanish: Concluído/Ejecución/Perfil/Pré-ejecución)</td>
     <td>$231.712.828,00</td>
