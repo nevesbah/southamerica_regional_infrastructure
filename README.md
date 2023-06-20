@@ -50,7 +50,8 @@ Having crises as a structural component of South American countries, what elemen
 ## Databases Description
 <p align="justify">
 <p><b> 1 - IIRSA Continued Projects </b></p>
-<p></p> - This database details the current status (untill January/2023) of the IIRSA Projects that had as its status "ongoing" (em andamento, in portuguese) and had been continued even after the paralisis of UNASUR in 2028 </p>
+<p>- This database details the current status (untill January/2023) of the IIRSA Projects that had as its status "ongoing" (em andamento, in portuguese) and had been continued even after the paralisis of UNASUR in 2028 </p>
+<p> After the list of all concluded projects untill 2018, it is listed the new status of each "ongoing" project (165 approximately), the weblink providing more details about its status, and its own link on the IIRSA website</p>
 <p> <b> DATABASE STRUCTURE </b></p>
 <table align="center">
   <tr>
@@ -59,6 +60,9 @@ Having crises as a structural component of South American countries, what elemen
     <th>Total of Investments in US$ ('monto de inversión')</th>
     <th>Country/Countries ('país/países')</th>
     <th>Financial Sources ('financiadores')</th>
+    <th>New Status ('status')</th>
+    <th>Details ('detalhes')</th>
+    <th>IIRSA Link ('link IIRSA')</th>
   </tr> 
 <tr align="center">
     <td>Ex. CARRETERA TARAPOTO - YURIMAGUAS</td>
@@ -66,6 +70,8 @@ Having crises as a structural component of South American countries, what elemen
     <td>$231.712.828,00</td>
     <td> Peru </td>
     <td> IDB - National Treasure - Private (in spanish: BID – TESOURO – PRIVADO)</td>
+    <td> Concluded/Ongoing/Paralyzed/No information (in portuguese: Concluído/Em andamento/Parada/Sem informação)</td>
+    <td> http://iirsa.org/proyectos/ </td>
   </tr>
 </table>
   
